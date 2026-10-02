@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-<iframe width="800" height="1000" src="Resume 2026 (1).pdf">
+<iframe width="800" height="1000" src="Resume.pdf">
 
 </iframe>
 
