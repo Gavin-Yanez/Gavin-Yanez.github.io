@@ -1,0 +1,16 @@
+---
+title: "Your Name"
+image: Headshot.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/Gavin-Yanez
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/gavin-yanez
+    - icon: inboxes
+      text: Contact
+      href: mailto:gyanez@uark.edu
+---
