@@ -3,9 +3,9 @@
     "path": "C:/Users/gyane/Downloads/e portfollio/resume.qmd",
     "project_path": "resume.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "427104007",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1790956276343.0,
     "source_on_save": false,
     "relative_order": 4,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790956287,
+    "lastKnownWriteTime": 1790957537,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790956490315,
+    "last_content_update": 1790957537062,
     "read_only": false,
     "read_only_alternatives": []
 }

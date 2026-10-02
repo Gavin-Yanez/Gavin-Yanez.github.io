@@ -3,9 +3,9 @@
     "path": "C:/Users/gyane/Downloads/e portfollio/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1143297653",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1790955571196.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -18,14 +18,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "320:0"
+        "rmdVisualModeLocation": "46:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790955568,
+    "lastKnownWriteTime": 1790957531,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790955983821,
+    "last_content_update": 1790957531108,
     "read_only": false,
     "read_only_alternatives": []
 }

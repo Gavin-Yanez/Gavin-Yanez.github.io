@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "quarto blog"
+  title: "Gavin Yanez"
   
   navbar:
     right:
@@ -16,7 +16,7 @@ website:
 format:
   html:
     theme: cosmo
-    
+    css: styles.css
     
 editor: visual
 

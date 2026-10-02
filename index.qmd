@@ -1,15 +1,16 @@
 ---
-title: "e portfollio"
-listing:
-  contents: posts
-  feed: true
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Gavin Yanez"
+image: Headshot.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/Gavin-Yanez
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/gavin-yanez
+    - icon: inboxes
+      text: Contact
+      href: mailto:gyanez@uark.edu
 ---
-
-
