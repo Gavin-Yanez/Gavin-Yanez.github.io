@@ -1,5 +1,18 @@
 ---
-title: "Index"
-format: html
+title: "Data Visualization Project"
+author: "Gavin Yanez, Connor Anderson, Blake Conrad, Evan Charles, and Tomas Ybrra"
+date: "2026-11-13"
+categories: [Data Visualization]
 ---
 
+## Project Overview
+
+This project involved creating a PowerPoint presentation focused on data visualization.
+
+##Presentation
+
+<iframe src="March Madness Data Visualization (1).pdf" width="100%" height="800px">
+
+</iframe>
+
+[Download the original presentation PDF](March Madness Data Visualization(1).pdf)
